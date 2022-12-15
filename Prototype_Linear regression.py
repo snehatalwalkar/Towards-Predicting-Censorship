@@ -56,13 +56,13 @@ def corr_coef(x, y):
 
 
 #RESULTS & MODEL EVALUATION
+print('\n\nCorrelations between Interest-Over-Time Peaks and Censorship measurements using Linear Regression \n')
 B0, B1, reg_line = linear_regression(x, y)
 R = corr_coef(x, y)
-print('\n\nRegression Line: ', reg_line)
-print('\ny-intercept is :',B0,'Slope is:',B1)
-print('\nLinear regression model Evaluation')
-print('Correlation Coefficient: ', R)
-print('Goodness of Fit: ', R**2)
+print('\nRegression Line : ', reg_line)
+print('\ny-intercept :',B0,'\nSlope :',B1)
+print('\n\nCorrelation Coefficient : ', R)
+print('Goodness of Fit : ', R**2)
 
 
 
