@@ -3,7 +3,7 @@ Building predictive models by identifying correlations between Google trends int
 
 Linear regression model w & w/o scikit-learn
 
-Random Datasets used: 
+Datasets used: 
 1. Coronavirus_CitizenLab_Wechat_China
 2. Censoreplanet data_Iran
 3. Famous keywords_global
