@@ -1,7 +1,7 @@
 # Towards-Predicting-Censorship
 Building predictive models by identifying correlations between Google trends interest-over-time spikes and internet censorship measurements
 
-Simple Linear regression model
+Linear regression model w & w/o scikit-learn
 
 Random Datasets used: 
 1. Coronavirus_CitizenLab_Wechat_China
