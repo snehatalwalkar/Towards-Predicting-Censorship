@@ -10,6 +10,6 @@ Random Datasets used:
 
 Result: Correlation coefficient = 0.985
 
-Future work: Analyze S3 OONI data for 'First confirmed censorship' dates. Identify ASN, ISP,country specific,hourly trends.
+Future work: Analyze S3 OONI data for 'First confirmed censorship' dates. Use different models. Identify ASN, ISP,country specific,hourly trends.
 
 Complete report on the project available upon request.
